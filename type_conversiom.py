@@ -1,0 +1,5 @@
+print("Enter a number to by added")
+value = input()
+print(type(value))
+value = int(value)
+print(type(value))
