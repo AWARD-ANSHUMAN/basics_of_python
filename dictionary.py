@@ -1,19 +1,34 @@
-# dictionary dara structure
+# dictionary data structure
 
-alpha = dict(x=1, y=2, z=3, b=4)
+# using dict function
+ alpha = dict(x=1, y=2, z=3, b=4)
 print(alpha)
 
 
-# Creating dictionary
+# Creating dictionary as key value pair
 
+dict= {"john" : 25, "akshay" : 78}
+print(dict["john"])
+print(dict.values())
+g
 
 #  Accessing dictionary items
+
 
 
 # Adding items to the dictionary
 
 
 # Looping over dictionary
+for key in dictionary:
+  print(key,dictionary[key])
 
+# Dictionary comprehension:
+#   new_dict = { for key in old_dict}
+  
+# dictionary.keys()
 
-# Dictionary comprehension 
+# dictionary.values()
+
+# dictionary.items()
+
