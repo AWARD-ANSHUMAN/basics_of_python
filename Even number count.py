@@ -1,6 +1,6 @@
 
 # range function returns a list as output
-#for loop then loops over this list
+# for loop then loops over this list
 # formatted strings sytaxp:print(f")
 
 count = 0

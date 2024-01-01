@@ -10,7 +10,7 @@ print(alpha)
 dict= {"john" : 25, "akshay" : 78}
 print(dict["john"])
 print(dict.values())
-g
+
 
 #  Accessing dictionary items
 
